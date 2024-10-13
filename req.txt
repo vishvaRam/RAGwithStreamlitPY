@@ -1,0 +1,7 @@
+python-dotenv
+langchain-community
+streamlit
+langchain-ollama
+langchain
+pypdf
+FAISS-gpu
