@@ -5,3 +5,8 @@ streamlit
 langchain-ollama
 langchain
 pypdf
+langchain-huggingface
+langchain-groq
+
+
+# Install torch cpu or gpu for SentenceTransformerEmbeddings
